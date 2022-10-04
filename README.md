@@ -1,2 +1,2 @@
 # bootstrap 
-Aprendendo Bootstrap com matheus battisti
+Aprendendo Bootstrap com Matheus Battisti
